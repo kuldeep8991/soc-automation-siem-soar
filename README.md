@@ -6,7 +6,7 @@ This project demonstrates Security Operations Center (SOC) automation using SIEM
 
 ## 🛠 Tools Used
 - SIEM: Splunk / Wazuh / Microsoft Sentinel
-- SOAR: Shuffle / Cortex XSOAR
+- SOAR: Slack API
 - Scripting: Python
 
 ## ⚙️ Workflow
